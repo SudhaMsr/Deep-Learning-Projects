@@ -1,2 +1,2 @@
 ## Projects using python
-## for beginners
+## python for beginners
